@@ -50,7 +50,7 @@
                                 </select>
                             </div>
                             <div class="form-group">
-                                <label for="message-text" class="col-form-label">Produccto:</label>
+                                <label for="message-text" class="col-form-label">Producto:</label>
                                 <input type="text" class="form-control">
                             </div>
                             <div class="form-group">
